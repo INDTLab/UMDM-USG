@@ -18,7 +18,7 @@ This repository provides code and datasets related to the paper:
 
 ![](image/微信图片_20260605151503_235_15.png)
 
-Underwater Text–Mask–Depth–Normal Dataset
+[Underwater Text–Mask–Depth–Normal Dataset](https://www.kaggle.com/datasets/xiaoxiaodadada/umdm-usg)
 
 
 
